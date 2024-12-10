@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    background-image: url(https://www.portal.zoo.bio.br/index.php?action=image_responsive&img=local/cache-gd2/7a/f8da71a88589ed676aca29708e1ce8.jpg&taille=684&1638628502);
+    background-size: cover;
+    color: #ffffff;
+}
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f9f9f9;
+    color: #1d5f05;
+    line-height: 1.6; 
+}
+
+header {
+    background-color: #1d5f05;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    color: rgb(128, 255, 0);
+    text-decoration: underline;
+}
+
+footer {
+    background-color: #1d5f05;
+    color: #ccc;
+    text-align: center;
+    padding: 10px;
+    border-radius: 20px;
+}
+section p {
+    font-size: 18px;
+    color: #100808;
+    line-break: auto;
+    background-color: #ffffff;
+}
+ section h2 {
+    color: #100808;
+ }
+h2::before {
+    content: ">> ";
+    color: #333;
+}
+p {
+    text-align: justify;
+    line-height: 1.8;
+    color: #ffffff;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+body {
+    background-color: #eef;
+}
+
+section {
+    border: 5px solid #ddd;
+    border-radius: 20px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+}
+h1 {
+    font-size: 2.5rem;
+}
+body {
+    background-color: #eef;
+}
+
+section {
+    width: 80vw;
+    height: 60vh;
+}
+div {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+section p {
+    font-size: 18px;
+    color: #100808;
+    line-break: auto;
+    background-color: #ffffff;
+}
+
+h2::before {
+    content: ">> ";
+    color: #333;
+}
+p {
+    text-align: justify;
+    line-height: 1.8;
+    color: #ffffff;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+body {
+    background-color: #eef;
+}
+
+section {
+    border: 5px solid #ddd;
+    border-radius: 20px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+h1 {
+    font-size: 2.5rem;
+}
+body {
+    background-color: #eef;
+}
+
+section {
+    width: 80vw;
+    height: 60vh;
+}
+div {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+HU:wght@100..400&display=swap');
